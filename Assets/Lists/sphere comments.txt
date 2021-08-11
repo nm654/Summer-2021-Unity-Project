@@ -1,0 +1,82 @@
+Sphere Commentary
+
+Moved 8/3/2021
+Rather than waste time on twitter in despair (Taking L's everyday), I should clean up my code so it's actually readable in case things go wrong
+I still need to work on the document clean up.
+I'll do that once I can get an actually working code for everything.
+    //Sphere moves faster and jumps higher (Speed Mode)
+    //Cube moves slower but can double jump? (What will the benefit of Cube be?) (Ah! How about having 2 hits instead of... 
+    //no. I don't want a checkpoint.)
+
+The minute I get off class and office hours the ADHD kicks in and I end up getting like, 1 thing done.
+I wish I could find things that weren't video tutorials...
+
+pdfdrive is right there
+7/28/2021: Searching PDF drive for books!
+
+//7/29/2021 Update: I am removing the Jump and It's now a Time Attack?!
+// Sure, go with that.
+// How do I make it interesting then? If there's no jump?
+//Obstacle course with IDK, walls?
+
+
+    // Update is called once per frame
+    
+//Hey didn't you have older files? Yeah but 3D... still should work, right? 
+//Wait, there's 2D ufo... and that other one... You did this like... last year... check the scripts and files...
+//It's been a year! Give me a break! It's like I'm a newbie all over again! (Also I never did 2D, just 3D Stuff...)
+// Why did I pick 2D again? (To challenge myself?)
+
+//7/28/2021: Why don't you break down what you need to do?
+// Change sprites to be more colored/ Less MS Paint Crude
+// Add Jump
+// Change Sprite to reflect movement
+// Add Music
+// Change Goalposts
+//Add Blinking
+//Player Sprite is fine... It's the goal and platform that need the most work
+// Gonna see if I can fix the sprite stuff and then set up the goal's win position. later!
+
+
+
+//In Class Update 7/28/2021: Stopped Floor Clipping and also helped movement
+
+
+  
+
+        
+
+
+//change velocity for the jump with gravity
+//check for jumping when they're touching the ground
+//if double jump, add a jump counter 
+// if ground is true or jump counter greater than 0, reduce counter by 1 when touching ground and reset 
+// Goal Post Works, Jump Does not
+//How much would it take for me to make this into some bizarro shmup Like Game
+//Make the Goal Post Bigger
+
+//I am Not Implementing the JUMP.
+// That'll just be if I have time to do so Later
+// What the heck is the Hitbox?!
+// Alright Now the Goal Post Works...
+//So How do I implement Other levels?
+// Uh. Hmmmm.... Level Select? Load Screen? IDK...
+
+//The 7/30 Update: I am in Danger!
+//How Do I implement a Pause Screen though lol and A Level Select too?!
+// Bruh I don't even have a jump how am I gonna make different levels
+// LOWER THE SCOPE?!
+// Okay So I can't turn or change my gravity either lol
+// You need the Jump then?!
+// Okay, So there will be a pause button to go to the title or quit the game somehow....
+// Do I need a goal counter to make it so when I fufill it all I get to the win screen?
+//You know what. I think I'll just not do that.
+// The Scope VS My Actual Ability is non existent. I'm not even sure if I can implement Cube...
+// You can! You just can't implement a character select// You'd have to uh. Make A whole set of different levels for cube only? Replace cube with sphere?
+
+// To Do: Implement Character Selection
+// Implement Jump and Gravity (NECESSARY)
+// Implement Win Screen (If Possible)
+// How Do I select Levels? Wait what about a level select where you can just pick and then the quit shows up?
+// Oh, so like without a win screen entirely. Guess I'll scrap that.
+// A (Level Select Button?)

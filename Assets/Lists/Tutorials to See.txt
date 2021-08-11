@@ -1,0 +1,36 @@
+
+Read Unity Tutorial Books to see if there's anything that can be inspired.
+
+Rather than give myself a hard time, shouldn't I start with reading the shortest book to see how much I can get done with it?
+No health boxes or enemies, recall?
+
+How about... Pushing blocks?
+Hey, not bad! (I have a double jump though...) (It needs to be simple. No puzzles?)
+
+
+Look Up Endless Runner tutorial
+Look Up Shmup Tutorial
+
+Start to Finish Book
+Brick Breaker
+Brick Dodging Game 
+
+Mastering 2D Development
+An RPG?
+I think I'd make only like, one map with 4 levels and it'd be like... paper mario with Shapes.
+
+Unity By Example 
+Has an Endless Runner Tutorial
+
+The 2D Arcade game is a further version of the brick breaker...
+
+Okay, so I'll do it like this.
+
+Sphere specific Games will be Brick Breaker
+Cube will be Brick Dodging
+Sphere will be the Shmup
+Cube will be the Endless Runner
+Sphere and Cube will both be in the RPG (Somehow.)
+
+You may just want to make something along the lines of A Minigames Section at this rate...
+Shapes Collection?

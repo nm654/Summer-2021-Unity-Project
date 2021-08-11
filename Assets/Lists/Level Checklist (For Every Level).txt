@@ -1,0 +1,15 @@
+Level Checklist (For Every Level)
+
+Coding Wise
+Level Selection
+Quit Button
+Labeled Grounds
+Proper Goal Post
+
+Menu Wise
+
+Aesthetic Wise
+Changed Color BG?
+Does it have... Pause and Reset Prompt?
+
+

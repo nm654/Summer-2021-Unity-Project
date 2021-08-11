@@ -1,0 +1,1140 @@
+fileFormatVersion: 2
+guid: dc2600d1a350317479491efaa0811e1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -800791757026785841
+    second: Try 1
+  - first:
+      213: 7083004173831137995
+    second: Basic Templates_1
+  - first:
+      213: -2786231167991967387
+    second: Basic Templates_2
+  - first:
+      213: -6988060371820436435
+    second: Basic Templates_3
+  - first:
+      213: -3554783966437276005
+    second: Basic Templates_4
+  - first:
+      213: 4008601625424647269
+    second: Basic Templates_5
+  - first:
+      213: 9105444865450761783
+    second: Basic Templates_6
+  - first:
+      213: -8967918917580362158
+    second: Basic Templates_7
+  - first:
+      213: -6053339219684092989
+    second: Basic Templates_8
+  - first:
+      213: -5191240484063206710
+    second: Basic Templates_9
+  - first:
+      213: 7879793381435005005
+    second: Basic Templates_10
+  - first:
+      213: -1063615227579201644
+    second: Basic Templates_11
+  - first:
+      213: -4360464913647010568
+    second: Basic Templates_12
+  - first:
+      213: -1910745741834852964
+    second: Basic Templates_13
+  - first:
+      213: 3753748173923156819
+    second: Basic Templates_14
+  - first:
+      213: 4234296056861077598
+    second: Basic Templates_15
+  - first:
+      213: -704300603194998214
+    second: Basic Templates_16
+  - first:
+      213: -6153940864345715628
+    second: Basic Templates_17
+  - first:
+      213: 4298208646788213863
+    second: Basic Templates_18
+  - first:
+      213: -5075701247450130294
+    second: Basic Templates_19
+  - first:
+      213: 1869357362375515214
+    second: Basic Templates_20
+  - first:
+      213: 2005292769273033277
+    second: Basic Templates_21
+  - first:
+      213: -3865355990143016728
+    second: Basic Templates_22
+  - first:
+      213: -2354372785461838063
+    second: Basic Templates_23
+  - first:
+      213: 5801709187064884864
+    second: Basic Templates_24
+  - first:
+      213: 4714967097578154670
+    second: Basic Templates_25
+  - first:
+      213: -3859079299757284972
+    second: Basic Templates_26
+  - first:
+      213: -6460530789802880706
+    second: Basic Templates_27
+  - first:
+      213: -93381395983733328
+    second: Basic Templates_28
+  - first:
+      213: 8689310103943237039
+    second: Basic Templates_29
+  - first:
+      213: -6739653527607364529
+    second: Basic Templates_30
+  - first:
+      213: -6589352558706023751
+    second: Basic Templates_31
+  - first:
+      213: -4492074144734692063
+    second: Basic Templates_32
+  - first:
+      213: -7437216386693070703
+    second: Basic Templates_33
+  - first:
+      213: 2566837924970917227
+    second: Basic Templates_34
+  - first:
+      213: -5512243812477484951
+    second: Basic Templates_35
+  - first:
+      213: 580661509126625147
+    second: Basic Templates_36
+  - first:
+      213: -2442693166821351229
+    second: Basic Templates_37
+  - first:
+      213: 5367050460204518195
+    second: Basic Templates_38
+  - first:
+      213: -5316173958457428411
+    second: Basic Templates_39
+  - first:
+      213: 6450219944173518654
+    second: Basic Templates_40
+  - first:
+      213: 4037639785934012844
+    second: Basic Templates_41
+  - first:
+      213: -7927718461738495542
+    second: Basic Templates_42
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Try 1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 333
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc58b57c32403e4f0800000000000000
+      internalID: -800791757026785841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 332
+        width: 115
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca60dbc4c2eb4260800000000000000
+      internalID: 7083004173831137995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 334
+        width: 115
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56197b9c3815559d0800000000000000
+      internalID: -2786231167991967387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_3
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 334
+        width: 115
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24a8acbd1c650f90800000000000000
+      internalID: -6988060371820436435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 336
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96804b01dedaaec0800000000000000
+      internalID: -3554783966437276005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_5
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 333
+        width: 115
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5645d7990f961a730800000000000000
+      internalID: 4008601625424647269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_6
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 332
+        width: 115
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ed817ccd90d5e70800000000000000
+      internalID: 9105444865450761783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_7
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 333
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25eed1f224d8b8380800000000000000
+      internalID: -8967918917580362158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_8
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 331
+        width: 115
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c31ac93d083efba0800000000000000
+      internalID: -6053339219684092989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_9
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 331
+        width: 115
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac229cbb84205f7b0800000000000000
+      internalID: -5191240484063206710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_10
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 325
+        width: 115
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4858ebd456aa5d60800000000000000
+      internalID: 7879793381435005005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_11
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 326
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4970276f5974d31f0800000000000000
+      internalID: -1063615227579201644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_12
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 327
+        width: 115
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcf38683448c73c0800000000000000
+      internalID: -4360464913647010568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_13
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 196
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95e7d11fdaab75e0800000000000000
+      internalID: -1910745741834852964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 197
+        width: 99
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35306f2731ef71430800000000000000
+      internalID: 3753748173923156819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_15
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 194
+        width: 99
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50ba0754dd33ca30800000000000000
+      internalID: 4234296056861077598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_16
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 194
+        width: 99
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32087b3552d936f0800000000000000
+      internalID: -704300603194998214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_17
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 193
+        width: 36
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cc9eb836fc89aa0800000000000000
+      internalID: -6153940864345715628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_18
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 195
+        width: 99
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ce25acdfd46ab30800000000000000
+      internalID: 4298208646788213863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_19
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 196
+        width: 99
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a885abf8b9c7f89b0800000000000000
+      internalID: -5075701247450130294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_20
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 190
+        width: 36
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c57a6ed9a41f910800000000000000
+      internalID: 1869357362375515214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_21
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 191
+        width: 99
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32bd2f262b34db10800000000000000
+      internalID: 2005292769273033277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_22
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 191
+        width: 99
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0e81dd43f7b5ac0800000000000000
+      internalID: -3865355990143016728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_23
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 190
+        width: 99
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f33b5fc66935fd0800000000000000
+      internalID: -2354372785461838063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_24
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 189
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e6f1154cfc38050800000000000000
+      internalID: 5801709187064884864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_25
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 187
+        width: 99
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaaecc2289dee6140800000000000000
+      internalID: 4714967097578154670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 59
+        width: 115
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49167e9b2dbc17ac0800000000000000
+      internalID: -3859079299757284972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_27
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 60
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31535dd9759756a0800000000000000
+      internalID: -6460530789802880706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_28
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 58
+        width: 99
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd62c77d1e34bef0800000000000000
+      internalID: -93381395983733328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_29
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 55
+        width: 36
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadcfb86081a69870800000000000000
+      internalID: 8689310103943237039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 110
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4431c923d0f772a0800000000000000
+      internalID: -6739653527607364529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_31
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 110
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2248e72caed84a0800000000000000
+      internalID: -6589352558706023751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_32
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d3f5a8d52f8a1c0800000000000000
+      internalID: -4492074144734692063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_33
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 57
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1900271b913b9c890800000000000000
+      internalID: -7437216386693070703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_34
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 56
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d64e93e7d3f9320800000000000000
+      internalID: 2566837924970917227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_35
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 56
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9604fe925739083b0800000000000000
+      internalID: -5512243812477484951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_36
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 54
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b771c3ae09cee0800800000000000000
+      internalID: 580661509126625147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_37
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 56
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0e658b18fc91ed0800000000000000
+      internalID: -2442693166821351229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_38
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 57
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b461c25f79b7a40800000000000000
+      internalID: 5367050460204518195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_39
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 58
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54676f973f72936b0800000000000000
+      internalID: -5316173958457428411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_40
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 18
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f3a9f4dd8c38950800000000000000
+      internalID: 6450219944173518654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_41
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 22
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1c4933ef3980830800000000000000
+      internalID: 4037639785934012844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Templates_42
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 25
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac155c8df061bf190800000000000000
+      internalID: -7927718461738495542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

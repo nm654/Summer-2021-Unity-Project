@@ -1,0 +1,41 @@
+New To Do List (8/4/2021)
+You sent in the SEEALSO before checking out the Canvas Requirements. (There's still time to add more?)
+Hand in Aesthetic after class (Done)
+Color BG Changes
+Goal Post Fixes (Cube Edition) (Semi Done)
+Scene Management (Level Select (Yeah), Game Plays (Yeah), Quit Games)
+Music and Sounds (gamesounds.xyz or something)
+Pause and Quit Prompt on All Levels (Working on it)
+
+So, Sphere Exclusive Build...
+Why is it full screen and how do I fix the resolution?
+You forgot to add a sphere to one of them
+Goal Post Works and Kicks you fast
+I should add a Quit Button Somewhere in case someone doesn't want to do the full level?
+Everything works for the most part aside from the Janky Full Screen...
+
+I'll make more levels. That was embarassingly short.
+So I can up it to about 5, maybe add moving platforms or something?
+Need a more substantial experience for my work.
+
+Before you Cube Build, did you recall to uh. Fix the goal posts?
+Probably not. I'll come up with something.
+
+That SHMUP idea's looking pretty spicy Right now..
+Endless Maybe?
+Okay so Endless SHMUP maybe, cube gets three shots and sphere gets two shots to make up for the fact cube is SLOW
+Hrrgh... I miss thunderforce... 
+I'm not making a thunderforce styled shmup, I don't even know how to compose music for it...
+
+Check out Books for it
+
+I think you should just do an endless floater of sorts...
+Uhhh. Sure.
+WATCH THE VIDEO.
+Mmmm.... Ehhhh?
+
+It's either A SHMUP, Endless Runner, or Combo. Uh. When you don't even have 5 levels...
+Technically Move and Jump are levels right. (Get out of there with that, those are glorified tutorials!)
+
+So then you'd need a quit prompt button.
+Q for Quit, R for Reset, P for Pause... 

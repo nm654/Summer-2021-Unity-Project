@@ -1,0 +1,59 @@
+to do list (8/2/2021
+
+
+Finished Tasks (Not on every Screen but There)
+Goal Level Select Screen/ Replay Button
+After A Goal is cleared, I need to send the player to either reset the level or go to the level select
+how do I do that?
+After the goal, load scene to go back to level select.
+Play a little jingle or something?
+
+
+Add a prompt for Pausing and Resetting (Maybe A text blurb on every level?)
+
+Balling V2
+What I still need to Do (Put it High to Low Priority)
+
+What you Need to Do 2
+Cube movement
+Scene management for level select
+Color Changes
+Menu Clean Up (To Look Nice)
+
+Design Document Revamp
+Don’t forget History
+The paper 
+Hinton
+Final Exam
+
+What about the blinking sprites?
+Bruh.... Need backgrounds.
+White on white lmao
+Wait, hold on. RGB... Y?
+Change the colors with Actual Unity.
+
+Cube Player Code
+Level Clear Screen (Or not... Just kick them back to Level Select)
+
+Pause Button Implementation
+Quit Button Implementation
+
+Character Select Screen
+Level Select Screen
+
+Background Image
+
+
+If I can I will do these:
+(DEATH PIT or Adding Reset Button
+Fix the Pit so it works!)
+Okay, since I can't get the pit to work I should work on what I can, like adding a reset button.
+
+
+
+Reset Button Works!
+Pause Works!
+
+
+
+)

@@ -1,0 +1,29 @@
+To Do List Version 2.0 (Still 8/4/2021)
+-You sent in the SEEALSO before checking out the Canvas Requirements. (There's still time to add more?)
+-Hand in Aesthetic after class (Done)
+-Color BG Changes (Done)
+
+
+-Goal Post Fixes (Cube Edition) (Semi Done)
+-Scene Management (Level Select (Yeah), Game Plays (Yeah), Quit Games(Unyeah), return prompt and win text on everything)
+-Music and Sounds (gamesounds.xyz or something)
+-Pause and Quit Prompt on All Levels (Working on it)
+
+-Minigame Collection (You ever get so bored of working on your project you start up 5 different other projects for fun? What's my problem?!)
+- Also I enjoy how even if I don't get it all done today I don't have 
+- Just make two minigames and put them in the level select somehow
+- You have the circle bouncing game so Square should be idk... what did I say they were?
+- Brick Dodging for Sure then. Not the RPG or anything that'd be too stupid. 
+
+So then you'd need a quit prompt button.
+Q for Quit, R for Reset, P for Pause... 
+I'm gonna add in uh... hm. Uh... New games based on books I read?
+
+Sphere Build V1
+-Fix Resolution for Game (Fixed and Not Full Screen)
+-Upload game to Git and or itch.io?
+-Add Quit Prompt (Quit with Q!)
+-Add New Levels (Maybe Longer? Moving Platforms? Slopes? Not much I can do that hasn't already been done)
+-Check Level Ideas List
+- Check Tutorial List
+
